@@ -1,0 +1,4 @@
+interface JQuery
+{
+    toLocalDateTime(): JQuery;
+}
